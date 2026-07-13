@@ -1,0 +1,31 @@
+{
+  "pricing": {
+    "promo_price": 19000,
+    "original_price": 29000,
+    "currency": "IDR",
+    "formatted_promo_price": "Rp19.000",
+    "formatted_original_price": "Rp29.000",
+    "google_play_product_id": "monthly",
+    "google_play_offer_id": "intro19k"
+  },
+  "translations": {
+    "id": {
+      "promo_alert_title": "Promo Bebas Iklan Tersedia! 🎉",
+      "promo_alert_desc": "Hanya Rp19.000/bulan pertama! BONUS: Gratis Bundle Paket Soal Tryout.",
+      "settings_card_period": "1 Bulan",
+      "settings_card_promo_price": "Rp19.000",
+      "settings_card_promo_suffix": "/ bulan pertama",
+      "settings_card_renewal_desc": "Setelah itu Rp29.000/bulan (Perpanjangan otomatis)",
+      "purchase_dialog_desc": "Anda akan membeli paket Bebas Iklan dengan promo Rp19.000 untuk bulan pertama (Selanjutnya Rp29.000/bulan).\n\nDengan paket ini, Anda akan menikmati pengalaman belajar bebas iklan dan mendapatkan bonus gratis Bundle Paket Soal Tryout.\n\nPaket ini akan diperpanjang secara otomatis. Anda dapat membatalkannya kapan saja melalui pengaturan Google Play."
+    },
+    "en": {
+      "promo_alert_title": "Ad-Free Promo Available! 🎉",
+      "promo_alert_desc": "Only Rp19.000/1st month! BONUS: Free Tryout Exam Bundle.",
+      "settings_card_period": "1 Month",
+      "settings_card_promo_price": "Rp19.000",
+      "settings_card_promo_suffix": "/ first month",
+      "settings_card_renewal_desc": "Rp29.000/month thereafter (Auto-renew)",
+      "purchase_dialog_desc": "You are about to purchase the Ad-Free subscription with a promo price of Rp19.000 for the first month (Rp29.000/month thereafter).\n\nWith this plan, you will enjoy an ad-free learning experience and receive a free Tryout Exam Bundle (claimable by contacting the admin after activation).\n\nThis subscription auto-renews. You can cancel anytime via your Google Play settings."
+    }
+  }
+}
