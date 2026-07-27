@@ -16,7 +16,30 @@
       "settings_card_promo_price": "Rp19.000",
       "settings_card_promo_suffix": "/ bulan pertama",
       "settings_card_renewal_desc": "Setelah itu Rp29.000/bulan (Perpanjangan otomatis)",
-      "purchase_dialog_desc": "Anda akan membeli paket Bebas Iklan dengan promo Rp19.000 untuk bulan pertama (Selanjutnya Rp29.000/bulan).\n\nDengan paket ini, Anda akan menikmati pengalaman belajar bebas iklan dan mendapatkan bonus gratis Bundle Paket Soal Tryout.\n\nPaket ini akan diperpanjang secara otomatis. Anda dapat membatalkannya kapan saja melalui pengaturan Google Play."
+      "purchase_dialog_desc": "Anda akan membeli paket Bebas Iklan dengan promo Rp19.000 untuk bulan pertama (Selanjutnya Rp29.000/bulan).\n\nDengan paket ini, Anda akan menikmati pengalaman belajar bebas iklan dan mendapatkan bonus gratis Bundle Paket Soal Tryout.\n\nPaket ini akan diperpanjang secara otomatis. Anda dapat membatalkannya kapan saja melalui pengaturan Google Play.",
+      "premium_benefits_title": "Manfaat & Bonus Premium:",
+      "premium_benefits": [
+        {
+          "id": "ad_free",
+          "text": "Bebas Iklan di Seluruh Aplikasi",
+          "is_bonus": false
+        },
+        {
+          "id": "bulk_upload",
+          "text": "Unggah Massal Kosakata (Bulk Upload)",
+          "is_bonus": false
+        },
+        {
+          "id": "full_access",
+          "text": "Akses Semua Bab & Materi Lengkap",
+          "is_bonus": false
+        },
+        {
+          "id": "tryout_bonus",
+          "text": "BONUS: Dapatkan Bundle Paket Soal TO (Tryout)",
+          "is_bonus": true
+        }
+      ]
     },
     "en": {
       "promo_alert_title": "Ad-Free Promo Available! 🎉",
@@ -25,7 +48,30 @@
       "settings_card_promo_price": "Rp19.000",
       "settings_card_promo_suffix": "/ first month",
       "settings_card_renewal_desc": "Rp29.000/month thereafter (Auto-renew)",
-      "purchase_dialog_desc": "You are about to purchase the Ad-Free subscription with a promo price of Rp19.000 for the first month (Rp29.000/month thereafter).\n\nWith this plan, you will enjoy an ad-free learning experience and receive a free Tryout Exam Bundle (claimable by contacting the admin after activation).\n\nThis subscription auto-renews. You can cancel anytime via your Google Play settings."
+      "purchase_dialog_desc": "You are about to purchase the Ad-Free subscription with a promo price of Rp19.000 for the first month (Rp29.000/month thereafter).\n\nWith this plan, you will enjoy an ad-free learning experience and receive a free Tryout Exam Bundle (claimable by contacting the admin after activation).\n\nThis subscription auto-renews. You can cancel anytime via your Google Play settings.",
+      "premium_benefits_title": "Premium Benefits & Bonuses:",
+      "premium_benefits": [
+        {
+          "id": "ad_free",
+          "text": "100% Ad-Free Experience",
+          "is_bonus": false
+        },
+        {
+          "id": "bulk_upload",
+          "text": "Bulk Vocabulary Upload (Excel/CSV)",
+          "is_bonus": false
+        },
+        {
+          "id": "full_access",
+          "text": "Full Access to All Chapters & Materials",
+          "is_bonus": false
+        },
+        {
+          "id": "tryout_bonus",
+          "text": "BONUS: Get Tryout Exam Bundle",
+          "is_bonus": true
+        }
+      ]
     }
   }
 }
